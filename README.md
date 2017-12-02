@@ -1,1 +1,1 @@
-CookingMaster用SE
+CookingMaster用のSEプロジェクト
